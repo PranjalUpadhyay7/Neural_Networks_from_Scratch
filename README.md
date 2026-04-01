@@ -11,7 +11,7 @@
 </div>
 
 ## 📌 Summary
-This project is an educational deep dive into the internal mathematics and architecture of neural networks. Instead of relying on high-level machine learning libraries like TensorFlow or PyTorch, this repository builds the core components from scratch. It is designed to help developers and researchers understand the "black box" of AI by sequentially building up from a single neuron to multi-layer, object-oriented architectures with activation and loss functions.
+This project is an educational deep dive into the internal mathematics and architecture of neural networks. Instead of relying on high-level machine learning libraries like TensorFlow or PyTorch, this repository builds the core components from scratch. It is designed to help developers and researchers understand the "black box" of AI by sequentially building up from a single neuron to multi-layer, object-oriented architectures with activation and loss functions. This is very basic project, starting point for the deep learning.
 
 ## 🛠 Tech Stack
 - **Language:** Python 3
